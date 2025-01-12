@@ -1,0 +1,1 @@
+web: python osm_server.py
